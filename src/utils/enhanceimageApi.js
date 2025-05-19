@@ -1,7 +1,7 @@
 
 import axios from "axios";
 
-const API_KEY = import.meta.env.VITE_API_KEY;
+const API_KEY ="wxxax3bwjr0u0dqb8";
 
 const BASE_URL = "https://techhk.aoscdn.com/";
 
